@@ -3,3 +3,4 @@ Dense Ensemble Deep CNNs.
 Convolution Ensemble Deep CNNs.  
 Attentive Ensemble Deep CNNs.  
 Evaluate the models using KFold Crossvalidation.  
+DOI : https://doi.org/10.3390/electronics12030684
